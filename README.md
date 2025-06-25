@@ -1,5 +1,5 @@
-# Memoirs Jekyll Theme
+# Axilock Blog
 
-[Live Demo](https://wowthemesnet.github.io/jekyll-theme-memoirs/) | [Docs & Download](https://bootstrapstarter.com/jekyll-theme-memoirs/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
+[![Blog Deploy](https://github.com/axilock/blog/actions/workflows/jekyll.yml/badge.svg)](https://github.com/axilock/blog/actions/workflows/jekyll.yml)
 
-![memoirs](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg)
+Built with ![memoirs](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg)
