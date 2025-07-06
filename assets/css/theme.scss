@@ -16,13 +16,24 @@ $enable-rounded: false;
 @import 'stars';
 
 
+@font-face {
+    font-family: 'Alliance No.2';
+    src: url('../fonts/alliance-no2.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
 // general
 body, input, button, select, optgroup, textarea {   
-    font-family:Sen;
+    font-family: 'Alliance No.2', sans-serif;
+    font-weight: 400;
+    line-height: 1.6;
 }
 body {
     line-height:1.7;
-    background: #f4f4f4;
+    background: #faf9f5;
 }
 a {
     color: darken($primary, 24%);
