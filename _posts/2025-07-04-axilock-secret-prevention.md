@@ -52,9 +52,7 @@ We needed something pre-push, pre-disaster, something that gives us confidence o
 ## The Outcome
 
 Axilöck isn’t just another dashboard metric - it's a prevention tool that lets security teams focus on what matters. No more editing ``.gitignore``, wrangling manual hooks, or worrying about coverage gaps.
-Axilöck lets security teams shift their focus from detecting to preventing.
-
-No yak shaving: forget editing ``.gitignore`` or ``hook scripts`` or custom wrappers that come with no coverage confidence.
+Axilöck lets security teams shift their focus from **detecting to preventing**.
 
 Join the **prevention** revolution !
 
