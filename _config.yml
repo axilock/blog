@@ -2,7 +2,7 @@
 name: "Axilock"
 title: "Axilock Blog"
 main-site: "https://axilock.ai"
-description: "Secrets leaked around the globe"
+description: "Axilock Blog"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
