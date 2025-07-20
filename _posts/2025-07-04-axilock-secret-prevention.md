@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Meet Axilöck - VCS Agnostic Secret Prevention"
-categories: [ tools product ]
+categories: [ product ]
 tags: [ tools ]
 image: assets/images/hero.svg
 comments: false
