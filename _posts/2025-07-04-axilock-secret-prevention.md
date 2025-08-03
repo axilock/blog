@@ -56,8 +56,8 @@ Axilöck lets security teams shift their focus from **detecting to preventing**.
 
 Join the **prevention** revolution !
 
-    → Free Tier: Perfect for solo devs.
-    → Team/Enterprise: SSO, Organization coverage metrics, custom integrations.
+    → Download & run: Perfect for small teams.
+    → Self host: Nothing leaves your network.
 
 Get protected in 30 seconds:
 
@@ -67,7 +67,7 @@ curl -sL https://get.axilock.ai | sh
 
 Stop cleaning up leaks. Start shipping code with confidence.
 
-[Install Axilöck Today][4] \| [Read the Docs][5]
+[Install Axilöck Today][4] \| [Read the Docs][5] \| [Star on Github][9] \| [Join Community][10]
 
 © 2025 Axilöck – Because your secrets shouldn't be public.
 
@@ -79,3 +79,5 @@ Stop cleaning up leaks. Start shipping code with confidence.
 [6]: https://github.blog/security/application-security/next-evolution-github-advanced-security/
 [7]: https://www.linkedin.com/pulse/2025-data-breach-forecast-analysis-certbar-ddh8c/
 [8]: https://www.ibm.com/think/insights/cost-of-a-data-breach-2024-financial-industry
+[9]: https://github.com/axilock/axi
+[10]: https://discord.axilock.ai
