@@ -12,7 +12,7 @@ mailchimp-list: ''
 book-demo: 'https://api.axilock.ai/v1/inbound'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: support@axilock.ai
 
 # Authors
 authors:
