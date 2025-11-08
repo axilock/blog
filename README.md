@@ -9,9 +9,7 @@
 
 ## Run locally
 
-1. Comment ``baseurl:`` line in  ``_config.yml``
 1. Run ``bundle exec jekyll serve -H 0.0.0.0``
-1. Before pushing **remember** to uncomment the ``baseurl:`` line
 
 ## Deploy
 
